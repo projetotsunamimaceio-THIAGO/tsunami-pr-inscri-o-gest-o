@@ -1,0 +1,6 @@
+{
+  "name": "Projeto Tsunami",
+  "description": "Aplicativo mobile-first para gestão esportiva, pré-inscrição em turmas de voleibol e modalidades, chamada de célula e painel administrativo do Projeto Tsunami.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
